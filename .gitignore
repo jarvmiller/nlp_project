@@ -1,0 +1,6 @@
+.DS_Store
+author_rankings_summary.tsv
+testing/
+training/
+.ipynb_checkpoints/
+training_df.csv
